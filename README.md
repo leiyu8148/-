@@ -5,14 +5,12 @@
 ## 项目结构
 
 ```
-G:\CODE\
+
 ├── installed_software_detector.py  # 前端主程序
 ├── build.bat                       # 前端打包脚本
 └── backend/
     ├── server_gui.py               # 后端服务程序
-    ├── app.py                      # Flask API（备用）
     ├── build.bat                   # 后端打包脚本
-    ├── start.bat                   # 直接运行脚本
     └── uploads/                    # 上传文件目录
 ```
 
